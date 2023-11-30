@@ -77,8 +77,3 @@ clauses = get_clauses()
 print('Original F:',clauses)
 
 DPLL(clauses)
-
-
-
-
-
